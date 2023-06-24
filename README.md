@@ -14,11 +14,11 @@ Welcome to Shopforhome, an ecommerce website where you can find everything you n
 * 5 - Secure Checkout: Rest assured that your transactions are safe and secure. Our encrypted payment gateway ensures that your sensitive information is protected.
 
 # Technologies Used
-HTML5, CSS3, and JavaScript for the frontend development.
-Spring for the backend development.
-MySQL for the database management.
-Bootstrap for responsive and mobile-friendly design.
-Git for version control and collaboration.
+* HTML5, CSS3, and JavaScript for the frontend development.
+* Spring for the backend development.
+* MySQL for the database management.
+* Bootstrap for responsive and mobile-friendly design.
+* Git for version control and collaboration.
 
 
 
