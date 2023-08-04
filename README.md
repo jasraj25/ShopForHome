@@ -22,14 +22,3 @@ Welcome to Shopforhome, an ecommerce website where you can find everything you n
 
 
 
-# Installation
-
-Getting Started
-To run Shopforhome locally on your machine, follow these steps:
-
-* 1 - Clone the repository: git clone https://github.com/jasraj25/ShopForHome.git
-* 2 - Install the necessary dependencies: pip install -r requirements.txt
-* 3 - Set up the database by running migrations: python manage.py migrate
-* 4 - Start the development server: python manage.py runserver
-* 5 - Access the website in your browser at http://localhost:8000
-* 5 - Make sure to create a superuser account to access the admin dashboard: python manage.py createsuperuser
