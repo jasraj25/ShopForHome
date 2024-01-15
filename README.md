@@ -15,7 +15,7 @@ Welcome to Shopforhome, an ecommerce website where you can find everything you n
 
 # Technologies Used
 * HTML5, CSS3, and JavaScript for the frontend development.
-* Spring for the backend development.
+* Springboot for the backend development.
 * MySQL for the database management.
 * Bootstrap for responsive and mobile-friendly design.
 * Git for version control and collaboration.
